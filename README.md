@@ -13,3 +13,4 @@ Je m'appelle **TARVERDIAN Mariam** et je suis actuellement en **Master 2 MoSEF -
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ton-profil-linkedin)
 
 ![Maro18287's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maro18287&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maro18287&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)

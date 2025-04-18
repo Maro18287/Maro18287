@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ece9e6,ffffff&height=160&section=header&text=Bienvenue%20sur%20mon%20GitHub%20🚀&fontSize=35&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8e0e00,1f1c2c&height=160&section=header&text=Bienvenue%20sur%20mon%20GitHub%20🚀&fontSize=35&fontColor=ffffff" />
 
 ## 🧠 Qui suis-je ?
 

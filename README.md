@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=160&section=header&text=Hello%Bienvenue%20sur%20mon%20GitHub%20🚀&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=160&section=header&text=Hello%20Bienvenue%20sur%20mon%20GitHub%20🚀&fontSize=35&fontColor=ffffff" />
 
 ## 🧠 Qui suis-je ?
 
@@ -12,3 +12,4 @@ Je m'appelle **TARVERDIAN Mariam** et je suis actuellement en **Master 2 MoSEF -
 [![Email](https://img.shields.io/badge/Email-tarverdian.bureau@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:tarverdian.bureau@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ton-profil-linkedin)
 
+![Tarverdian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-utilisateur-github&show_icons=true&theme=tokyonight)

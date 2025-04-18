@@ -12,4 +12,4 @@ Je m'appelle **TARVERDIAN Mariam** et je suis actuellement en **Master 2 MoSEF -
 [![Email](https://img.shields.io/badge/Email-tarverdian.bureau@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:tarverdian.bureau@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ton-profil-linkedin)
 
-![Tarverdian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-utilisateur-github&show_icons=true&theme=tokyonight)
+![Maro18287's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-utilisateur-github&show_icons=true&theme=tokyonight)

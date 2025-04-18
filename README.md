@@ -1,5 +1,4 @@
-# 👋 Hello, bienvenue sur mon GitHub !
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenue%20🚀&fontSize=40&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=160&section=header&text=Hello%Bienvenue%20sur%20mon%20GitHub%20🚀&fontSize=35&fontColor=ffffff" />
 
 ## 🧠 Qui suis-je ?
 

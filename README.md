@@ -4,14 +4,15 @@
 ## 🧠 Qui suis-je ?
 
 Je m'appelle **TARVERDIAN Mariam** et je suis actuellement en **Master 2 MoSEF - Data Science** à l’Université Paris 1 Panthéon-Sorbonne.  
-🚀 Actuellement en **alternance en tant que Data Scientist**, j’explore le monde fascinant de la **modélisation**, du **Machine Learning** et de l’**Intelligence Artificielle**.
+Actuellement en **alternance en tant que Data Scientist**, j’explore le monde fascinant de la **modélisation**, du **Machine Learning** et de l’**Intelligence Artificielle**.
 
 ---
 
 ## 📫 Me contacter
 
-[![Email](https://img.shields.io/badge/Email-tarverdian.bureau@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:tarverdian.bureau@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ton-profil-linkedin)
+[![Email](https://img.shields.io/badge/Email-tarverdian.bureau@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarverdian.bureau@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-linkedin)
+
 
 ![Maro18287's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maro18287&show_icons=true&theme=gruvbox)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Maro18287&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)

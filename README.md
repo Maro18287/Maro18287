@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a0572,ab0e86&height=160&section=header&text=Bienvenue%20sur%20mon%20GitHub%20🚀&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4b3832,7e6c64&height=160&section=header&text=Bienvenue%20sur%20mon%20GitHub%20🚀&fontSize=35&fontColor=ffffff" />
+
 
 
 ## 🧠 Qui suis-je ?
@@ -9,9 +10,8 @@ Actuellement en **alternance en tant que Data Scientist**, j’explore le monde 
 ---
 
 ## 📫 Me contacter
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-linkedin)
 [![Email](https://img.shields.io/badge/Email-tarverdian.bureau@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarverdian.bureau@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-linkedin)
 
 
 ![Maro18287's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maro18287&show_icons=true&theme=gruvbox)
